@@ -86,6 +86,7 @@ Keep a one-line log per entry: bounty, repo, commit, submission id, result. Trad
 - **Protect your accounts.** One person, one make.fun account; keep each GitHub and wallet link straight. Mixing accounts is how entries get rejected and payouts get lost.
 - **Verify, then trust.** Check the wallet address, the repo owner, the commit hash, and the submission id character by character before you submit. A single wrong character is a missed fill.
 - **Take profit in lessons.** Even a losing entry teaches you something: a failed check is a rule you now know. Log it and move on to the next setup.
+- **Know when the session ends.** Bounties close on a clock, not on your feelings. If the deadline is an hour away and the entry is not checked, the disciplined move is to ship the next bounty instead of forcing a bad fill.
 
 ## 7. Common mistakes (and the fix)
 
